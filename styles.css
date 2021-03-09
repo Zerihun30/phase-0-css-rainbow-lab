@@ -1,0 +1,12 @@
+* {
+    color:rainbow;  /* color in CSS refers to font color */
+  }  /* all elements will have rainbow font */
+  #red { /* this selects any elements with the red id */
+    border-top-color: #f00;
+  }
+   /* this selects any elements with the red id */
+    
+  div{
+    color:#f00 #ffa500 #ff0 #00bc3f #06f #8a2be2 #d300c9
+  
+  }
